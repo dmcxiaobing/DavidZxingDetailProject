@@ -1,0 +1,2 @@
+# DavidZxingDetailProject
+Android开发之使用Zxing集成二维码的扫描与生成功能。fragment与activity中实现。
