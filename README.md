@@ -8,8 +8,6 @@ Android开发之使用Zxing集成二维码的扫描与生成功能。fragment与
 
 ![这里写图片描述](http://img.blog.csdn.net/20161121100653217)
 
-    @Author ：程序员小冰
-    
  * @新浪微博 ：http://weibo.com/mcxiaobing
  
  * @CSDN博客: http://blog.csdn.net/qq_21376985
